@@ -12,7 +12,7 @@ const PORTFOLIO_DATA: Portfolio = {
 	// Supported icons: 'GitHub', 'LinkedIn', 'Twitter', 'Blog'
 	links: [
 		{ name: "GitHub", url: "https://github.com/evanhuangdev" },
-		{ name: "LinkedIn", url: "www.linkedin.com/in/evhuang4" },
+		{ name: "LinkedIn", url: "https://linkedin.com/in/evhuang4" },
 		// { name: "Twitter", url: "https" },
 		// { name: "Blog", url: "https://yourblog.com" },
 	],
@@ -33,7 +33,7 @@ const PORTFOLIO_DATA: Portfolio = {
 		},
 		{
 			title: "GPA Calculator",
-			description: "",
+			description: "To be updated",
 			stack: ["React Native"],
 			githubLink: "",
 			liveLink: "",

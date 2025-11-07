@@ -43,7 +43,7 @@ export default function Home() {
 						<h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-white tracking-tight">
 							{portfolioData.name}
 						</h1>
-						<p className="mt-4 text-2xl sm:text-3xl text-purple-400 font-medium">
+						<p className="mt-4 text-2xl sm:text-3xl text-blue-400 font-medium">
 							{portfolioData.headline}
 						</p>
 						<p className="mt-6 max-w-2xl mx-auto text-lg text-gray-300">
